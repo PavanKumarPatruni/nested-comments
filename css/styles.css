@@ -1,5 +1,11 @@
-.parent-nested-comments {
+.parent-div {
     font-family: 'Source Sans Pro', sans-serif;
+  }
+  
+  .title {
+    width: 100%;
+    text-align: center;
+    margin: 70px 0;
   }
   
   .main-comment-box, .reply-box {
